@@ -24,7 +24,7 @@
  <img src="images/phpdb_2.png" style="width: 50%; height: 50%">
 </p>
 <p align="center">
-	<strong><em>archivo settings.json Modo UI</em></strong>u
+	<strong><em>archivo settings.json Modo UI</em></strong>
 </p>
 
 * Para abrir el archivo de configuración en formato json solo haz clic sobre el icono en forma de hoja que se ubica en la parte superior izquierda de tu pantalla.
